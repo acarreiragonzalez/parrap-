@@ -16,6 +16,6 @@ public class HolaQuetal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+    }   // Onte cenei pan de allo//
     
 }
